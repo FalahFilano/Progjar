@@ -1,9 +1,8 @@
 # UTS Progjar
 
 ## A. Upload ke Server
-![Capture](img/Client Upload.JPG)
-![2](img/Server Retrieve.JPG)
-
+![Capture](img/ClientUpload.JPG)
+![2](img/ServerRetrieve.JPG)
 ## B. Download ke Client
-![3](img/Client Download.JPG)
-![4](img/Client Send File.JPG)
+![3](img/ClientDownload.JPG)
+![4](img/ClientSendFile.JPG)
