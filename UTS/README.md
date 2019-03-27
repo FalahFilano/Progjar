@@ -5,4 +5,4 @@
 ![2](img/ServerRetrieve.JPG)
 ## B. Download ke Client
 ![3](img/ClientDownload.JPG)
-![4](img/ClientSendFile.JPG)
+![4](img/ServerSendFile.JPG)
